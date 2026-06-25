@@ -1,6 +1,6 @@
 # Security
 
-## Reporting a bug in Node.js
+## Reporting a bug in Node.js 118
 
 Report security bugs in Node.js via [HackerOne](https://hackerone.com/nodejs).
 
